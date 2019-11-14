@@ -18,3 +18,9 @@ Nowadays the responsibility of accessibility are upon the web designers and engi
 4. [‘Web Accessibility Guidelines’ turn 10 but still less than 10% of sites are accessible](https://www.abilitynet.org.uk/news-blogs/web-accessibility-guidelines-turn-10-still-less-10-sites-are-accessible)
 5. [Accessibility: Images, “Alt” tags, and the “Out Loud” Experience](https://www.oomphinc.com/notes/2019/01/images-alt-tags-out-loud-experience-oomph-inc/)
 6. [Image ALT Text](https://accessibility.psu.edu/images/alttext/)
+
+## Other alt filling tools
+
+[Caption Crawler](https://www.microsoft.com/en-us/research/project/caption-crawler/) is a plug-in for the Edge and Chrome web browsers that provides additional information about images for screen reader users. Many images on the web lack captions (i.e., alt text). When a webpage loads, Caption Crawler identifies images that are missing captions and checks if it is captioned elsewhere on the web; if so, the discovered captions are made available to the screen reader. [See also this article](https://techxplore.com/news/2018-02-browser-extension-visually-impaired-online.html)
+
+> However, it relies on captions of that images elswere on the internet
