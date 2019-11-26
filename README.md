@@ -8,7 +8,7 @@ Soapie is an open-source browser extension (support Mozilla Firefox and Google C
 
 Since the popularity of the internet, it has been changing our lives drastically. And for the sight impaired, browsing experience can be quite different form the rest of us. According to the NHS in the UK, there are almost 2 million people living with sight loss. Of these, around 360,000 are registered as blind or partially sighted.
 
-Nowadays the responsibility of accessibility are upon the web designers and engineers, even thought organisations are advocating the importance of accessibility design and there are [laws to enforce the equality and accessibility](https://www.legislation.gov.uk/ukpga/2010/15/contents), the browsing experience of sight impaired people are still depends of the awareness of the industry. We would like to give this power of having a smooth browsing experience to the users, by working closely with the community, we can build a tool that works on the users' side and will remove the dependences on the web designers.
+Nowadays the responsibility of accessibility are upon the web designers and engineers, even though organisations are advocating the importance of accessibility design and there are [laws to enforce the equality and accessibility](https://www.legislation.gov.uk/ukpga/2010/15/contents), the browsing experience of sight impaired people are still depends of the awareness of the industry. We would like to give this power of having a smooth browsing experience to the users, by working closely with the community, we can build a tool that works on the users' side and will remove the dependences on the web designers.
 
 ## Useful articles
 
